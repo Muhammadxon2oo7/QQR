@@ -1,0 +1,16 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [ ]
+            },
+            "properties": {
+                "name": "District Name"
+            }
+        }
+        
+    ]
+}
